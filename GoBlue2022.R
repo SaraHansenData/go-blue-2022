@@ -232,7 +232,7 @@ football1 <- df_football %>%
 
 football2 <- df_football %>%
   ggplot(aes(x = x, y = y)) +
-  geom_image(image = "American_football_rotate.png", asp = 1.618, size = 0.35) +
+  geom_image(image = "American_football_rotated.png", asp = 1.618, size = 0.35) +
   annotate("text", x = 0.496, y = 0.508, label = "One team:",
            color = "#FFFFFF", size = 4.5, fontface = "bold") +
   annotate("text", x = 0.5, y = 0.495, 
