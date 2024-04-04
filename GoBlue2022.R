@@ -12,9 +12,8 @@ library(sportyR)
 # Downloaded all 2022 data, regular season
 ## https://collegefootballdata.com/exporter/games?year=2022&seasonType=regular
 
-# Import
-setwd("C:/Users/saras/Desktop/Data Projects")
-dat <- read.csv("collegefootballdata.csv", header = TRUE,
+# Import (from a folder named "data", or wherever you save it locally)
+dat <- read.csv("data/collegefootballdata.csv", header = TRUE,
                 quote = "", fileEncoding = "UTF-8")
 
 # Explore
