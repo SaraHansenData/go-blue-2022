@@ -1,4 +1,4 @@
-# GoBlue2022
+# Go Blue 2022
 
 #### Check out the code I used to build basic visualizations for the University of Michigan Wolverines 2022 football season. 
 
