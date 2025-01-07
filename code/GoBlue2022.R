@@ -1,5 +1,5 @@
 ## Go Blue 2022
-## Sara E. Hansen, hanse2s
+## Sara E. Hansen, SaraHansenData
 ## Modified: 2024-04-04
 
 library(tidyverse)
